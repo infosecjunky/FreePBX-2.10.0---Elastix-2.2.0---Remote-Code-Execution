@@ -1,2 +1,2 @@
 # FreePBX 2.10.0 / Elastix 2.2.0 - Remote Code Execution
- modified version of the original one for hackthebox download and change the rhost, lhost, port and extension.
+### For HTB Beep hints not writeup go https://github.com/A1vinSmith/OSCP-PWK/tree/master/HackTheBox/Linux/Beep
