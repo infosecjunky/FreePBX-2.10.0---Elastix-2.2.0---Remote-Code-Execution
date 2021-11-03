@@ -8,7 +8,11 @@ Edit the following /etc/ssl/openssl.cnf
 at the bottom of the config file make the following changes.
 
 [system_default_sect]
+
 #MinProtocol = DEFAULT@SECLEVEL=2
+
 MinProtocol = None
+
 #CipherString = DEFAULT@SECLEVEL=2
+
 CipherString = None
