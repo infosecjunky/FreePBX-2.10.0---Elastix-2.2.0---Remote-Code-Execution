@@ -18,3 +18,5 @@ MinProtocol = None
 #CipherString = DEFAULT@SECLEVEL=2
 
 CipherString = None
+
+Give a Star if you it was helpful
